@@ -1,0 +1,25 @@
+names:
+- Button
+- CheckBox
+- CheckedTextView
+- EditText
+- EditText-
+- ImageButton
+- ImageView
+- ProgressBar
+- RadioButton
+- RatingBar
+- SeekBar
+- Spinner
+- Switch
+- TextView
+nc: 14
+roboflow:
+  license: CC BY 4.0
+  project: ui-components-detection
+  url: https://universe.roboflow.com/national-university-of-sciences-and-technology-nust/ui-components-detection/dataset/5
+  version: 5
+  workspace: national-university-of-sciences-and-technology-nust
+test: ../test/images
+train: UI-Components-Detection-5/train/images
+val: UI-Components-Detection-5/valid/images
